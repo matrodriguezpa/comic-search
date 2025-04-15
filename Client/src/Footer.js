@@ -6,9 +6,6 @@ function Footer() {
       <p>
         Author: <a href="https://github.com/matrodriguezpa/" target="_blank" rel="noopener noreferrer">matrodriguezpa</a>
       </p>
-      <p>
-        with the <a href="https://api.shortboxed.com/" target="_blank" rel="noopener noreferrer">Showtboxed</a> API
-      </p>
     </footer>
   );
 }

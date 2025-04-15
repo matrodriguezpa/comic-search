@@ -14,8 +14,8 @@
     <groupId>com.matrodriguezpa</groupId>
     <artifactId>comicsearch</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>comicsearch</name>
-    <description>Demo project for Spring Boot</description>
+    <name>Comic Search (Server)</name>
+    <description>Comics search backend in Spring Boot</description>
     <url/>
 
     <properties>
